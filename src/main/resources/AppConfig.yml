@@ -1,0 +1,12 @@
+core:
+  poolsize: 200
+
+tripService:
+  description: "dummy trip service."
+
+monteCarlo:
+  calculationMethod: "Monte carlo var calcaulation model."
+
+historicalSimulation:
+  calculationMethod: "Historical Simulation 99% Confidence level."
+
